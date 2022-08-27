@@ -1,0 +1,73 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "quiz_app",
+            "cwd": "1_Quiz\\quiz_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "quiz_app (profile mode)",
+            "cwd": "1_Quiz\\quiz_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "trafficlight_app",
+            "cwd": "2_TrafficLight\\trafficlight_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "trafficlight_app (profile mode)",
+            "cwd": "2_TrafficLight\\trafficlight_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "meeting_app",
+            "cwd": "3_MeetingApp\\meeting_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "meeting_app (profile mode)",
+            "cwd": "3_MeetingApp\\meeting_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "test_app",
+            "cwd": "99_Test\\test_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "test_app (profile mode)",
+            "cwd": "99_Test\\test_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "weather_app",
+            "cwd": "99_Weather_app_sample\\weather_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "weather_app (profile mode)",
+            "cwd": "99_Weather_app_sample\\weather_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
